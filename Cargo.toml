@@ -5,7 +5,7 @@ edition = "2024"
 description = "Renormalization group framework for multi-scale fleet analysis"
 license = "MIT"
 repository = "https://github.com/SuperInstance/renormalization-group"
-keywords = ["physics", "renormalization", "fleet", "multi-scale", "statistical-mechanics"]
+keywords = ["physics", "renormalization", "fleet", "multi-scale", "statistics"]
 categories = ["science", "mathematics"]
 
 [dependencies]
